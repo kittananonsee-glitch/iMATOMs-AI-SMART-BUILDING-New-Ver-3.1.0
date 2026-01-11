@@ -1,0 +1,8 @@
+{
+  "name": "iMATOMs SMART BUILDING Pro - Ver 3.1.0 AI ANALYTICS",
+  "description": "A comprehensive facility management suite with integrated Gemini AI for predictive analytics, voice commands, and intelligent work order management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
